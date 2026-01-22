@@ -1,7 +1,5 @@
-var myVar = 87;
+var ourDecmial = 5.7;
 
 //only change code below this line
-myVar = myVar - 1;
 
-//quicker way to decrement  a number 
-myVar--; // decrement
+var myDecimal = 0.0008
