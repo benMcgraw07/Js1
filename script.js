@@ -1,1 +1,3 @@
-var product = 2.0 * 2.5;
+var remainder;
+remainder = 11 % 3;
+console.log(remainder);
