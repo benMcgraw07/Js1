@@ -1,14 +1,7 @@
-// initialize these 3 variables
-var a = 5;
-var b = 10;
-var c = "I am a string, ";
+var myVar = 87;
 
-// do not change code below this line
+//only change code below this line
+myVar = myVar + 1;
 
-a = a + 1;
-b = b + 5;
-c = c + "String!";
-
-console.log(a);
-console.log(b);
-console.log(c);
+//quicker way to increment a number 
+myVar++; // increment 
