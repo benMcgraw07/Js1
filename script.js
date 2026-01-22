@@ -1,7 +1,9 @@
-const myName = "Ben";
+var a;
+var b = 2;
 
-var ourName = "Ben";
-ourName = 8;
+a = 7;
 
+b = a;
 
-let value = 8;
+console.log(a);
+
