@@ -1,8 +1,7 @@
-var number = 5; //this is an in-line comment 
+const myName = "Ben";
 
-/*
-this is a multi line commnet
-b
-b
-*/
-number = 9 
+var ourName = "Ben";
+ourName = 8;
+
+
+let value = 8;
