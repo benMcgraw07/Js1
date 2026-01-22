@@ -1,11 +1,10 @@
+// initialize these 3 variables
 var a;
-var b = 2;
+var b;
+var c;
 
-console.log(a);
+// do not change code below this line
 
-a = 7;
-
-b = a;
-
-console.log(a);
-
+a = a + 1;
+b = b + 5;
+c = c + "String";
